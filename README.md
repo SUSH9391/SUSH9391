@@ -2,7 +2,7 @@
 
 <!--
 **SUSH9391/SUSH9391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Passionate developer from Bangalore
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
