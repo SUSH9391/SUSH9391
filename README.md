@@ -46,7 +46,7 @@
 
 ###
 <h2 align="left">Let's Connect</h2>
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sushmitha-baliga-b-202286263/" target="_blank">
