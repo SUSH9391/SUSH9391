@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **web applications and trainig ai models**
 
-- 🌱 I’m currently learning **advanced AI/ML techniques and Flask developmen**
+- 🌱 I’m currently learning **advanced AI/ML techniques and Flask development**
 
 - 👯 I’m looking to collaborate on **open-source AI projects**
 
@@ -21,11 +21,11 @@
 
 - 💬 Ask me about **Python, Flask, machine learning, or data analysis**
 
-- 📫 How to reach me **masrbaliga@gmail.com**
+- 📫 How to reach me **sushmitha_baliga_b@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sushmitha-baliga-b-202286263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sushmitha-baliga-b-202286263" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sushmitha-baliga-b-202286263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sushmitha-baliga-b-202286263" height="30" width="40" /></a>
 <a href="https://instagram.com/_.xsushhhhx._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.xsushhhhx._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/masrbaliga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="masrbaliga" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sush9391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sush9391" height="30" width="40" /></a>
