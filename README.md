@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm sushmitha and I'm an AI Engineer, from Bangalore</p>
+<p align="left">I'm sushmitha and I'm a frontend developer, from Bangalore</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on web applications and training AI models.<br>📚 ’m currently learning advanced AI/ML techniques.<br>🎯 Contribute as much as possible to AI society. <br>🎲 Fun fact I love exploring new technologies.<br>📫 How to reach me sushmitha_baliga_b@outlook.com</p>
+<p align="left">✨ I’m currently working at BaFT technologies pvt ltd.<br>📚 ’m currently learning advanced AI/ML techniques.<br>🎯 Contribute as much as possible to AI society. <br>🎲 Fun fact I love exploring new technologies.<br>📫 How to reach me sushmitha_baliga_b@outlook.com</p>
 
 ###
 
