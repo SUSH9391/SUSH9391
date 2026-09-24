@@ -1,100 +1,118 @@
-<!-- ═══════════════════════════════════════════════════════
-     FEATURED PROJECTS
-════════════════════════════════════════════════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for SUSH9391" src="art/header-light.png">
+</picture>
+</p>
+
+<h1 align="center">
+  Hey there, I'm <span style="color:#EF93C4;">Sushmitha</span>
+</h1>
 
 <p align="center">
-  <a href="https://github.com/SUSH9391">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_1&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 1"/>
-  </a>
-  <a href="https://github.com/SUSH9391">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_2&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 2"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=40C463&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AIML+Engineer;Open+Source+Enthusiast;Problem+Solver"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SUSH9391">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_3&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 3"/>
-  </a>
-  <a href="https://github.com/SUSH9391">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_4&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 4"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/SUSH9391?style=for-the-badge&logo=github&label=Followers&color=30A14E" />
+  <img src="https://img.shields.io/github/stars/SUSH9391?style=for-the-badge&logo=github&label=Stars&color=30A14E" />
+  <img src="https://komarev.com/ghpvc/?username=SUSH9391&style=for-the-badge&color=30A14E"/>
 </p>
 
-<br>
 
-<!-- ═══════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE
-════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">👩‍💻 About Me</h2>
+
+<table align="center">
+<tr>
+
+<td width="65%" valign="top">
+
+- 💻 Working with **Generative AI, RAG & Agentic AI**.
+- 🌱 Continuously learning, experimenting and shipping.
+- 🚀 Enjoy turning complex ideas into practical products.
+- 🎯 Building with **Python, React & TypeScript**.
+- 🎨 Creating interactive interfaces with **Three.js & GSAP**
+- 🌌 Exploring **LLMs, Transformers & AI Systems**
+- ✨ Always chasing the next idea worth building.
+- 📍 Based in **Bengaluru, India**
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
+
+</td>
+
+</tr>
+</table>
+
+
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,fastapi,supabase,tensorflow,pytorch,postgres,mongodb,tailwind,git,github,docker,vscode,figma,postman,linux,npm,&perline=16"/>
+</p>
+
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SUSH9391&hide_border=true&background=0D1117&ring=30A14E&fire=299435&currStreakLabel=30A14E&sideLabels=30A14E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
+</p>
+
+
+
+<p align="center">
+
   <img
-    src="https://github.com/SUSH9391/SUSH9391/blob/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SUSH9391&bg_color=0D1117&color=40C463&line=30A14E&point=9BE9A8&area=true&area_color=216E39&hide_border=true"
+    width="95%"
+    alt="Sushmitha's GitHub Activity Graph"
   />
+
 </p>
 
-<br>
 
-<!-- ═══════════════════════════════════════════════════════
-     CONNECT
-════════════════════════════════════════════════════════ -->
-<h2 align="center">💌 Let's Connect</h2>
+
+<h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/YOUR_X_USERNAME">
-    <img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=161616" alt="X"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img src="https://github.com/SUSH9391/SUSH9391/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
+<!--
+To enable the snake animation:
+
+1. Create a GitHub Action in this repository.
+2. Use Platane/snk to generate the SVG every day.
+3. Commit the generated file into:
+   output/github-contribution-grid-snake.svg
+-->
+
+
+<h2 align="center">🌐 Let's Connect</h2>
+
 <p align="center">
-  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
-    <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://youtube.com/@YOUR_YOUTUBE_USERNAME">
-    <img src="https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=161616" alt="YouTube"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
+<a href="https://linkedin.com/in/sushmithabaligab31">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+<a href="mailto:sushmitha_baliga_b@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-<br>
 
-<!-- ═══════════════════════════════════════════════════════
-     GITHUB PROFILE CTA
-════════════════════════════════════════════════════════ -->
-<p align="center">
-  <a href="https://github.com/SUSH9391?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
-  </a>
+<p align="center" >
+See you in the next commit 🌸
 </p>
-
 <p align="center">
-  <i>✨ Building. Learning. Breaking things. Fixing them. Repeating. ✨</i>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════
-     FOOTER
-════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=130&section=footer&text=Thanks%20for%20visiting%20%F0%9F%8C%B8&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"
-    width="100%"
-    alt="Footer"
-  />
-</p>
-
-<p align="center">
-  <sub>Made with 💗, curiosity & lots of ☕</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
 </p>
