@@ -115,4 +115,30 @@ See you in the next commit 🌸
 </p>
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
+</p<!-- ═══════════════════════════════════════════════════════
+     CONTRIBUTION SNAKE
+════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+      width="95%"
+    />
+  </picture>
 </p>
+
+<br />
+
+>
