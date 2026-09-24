@@ -122,21 +122,11 @@ See you in the next commit 🌸
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake animation"
-      width="95%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="95%"
+  />
 </p>
 
 <br />
