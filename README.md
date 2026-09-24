@@ -77,10 +77,14 @@
 
 
 
-<h2 align="center"> 🐍 Contribution Graph </h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/SUSH9391/SUSH9391/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img
+    src="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="95%"
+  />
 </p>
 
 <!--
@@ -119,15 +123,7 @@ See you in the next commit 🌸
      CONTRIBUTION SNAKE
 ════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SUSH9391/SUSH9391/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-    width="95%"
-  />
-</p>
 
 <br />
 
