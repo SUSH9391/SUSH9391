@@ -65,15 +65,7 @@
 
 
 
-<p align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SUSH9391&bg_color=0D1117&color=40C463&line=30A14E&point=9BE9A8&area=true&area_color=216E39&hide_border=true"
-    width="95%"
-    alt="Sushmitha's GitHub Activity Graph"
-  />
-
-</p>
 
 
 
