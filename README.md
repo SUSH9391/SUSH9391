@@ -1,66 +1,85 @@
+<!-- ═══════════════════════════════════════════════════════
+     FEATURED PROJECTS
+════════════════════════════════════════════════════════ -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://SUSH9391.io)
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">I'm sushmitha and I'm a frontend developer, from Bangalore</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I’m currently working at BaFT technologies pvt ltd.<br>📚 ’m currently learning advanced AI/ML techniques.<br>🎯 Contribute as much as possible to AI society. <br>🎲 Fun fact I love exploring new technologies.<br>📫 How to reach me sushmitha_baliga_b@outlook.com</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
-###
-<h2 align="left">Let's Connect</h2>
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sushmitha-baliga-b-202286263/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://github.com/SUSH9391">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_1&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 1"/>
   </a>
-</div>
+  <a href="https://github.com/SUSH9391">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_2&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 2"/>
+  </a>
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/SUSH9391">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_3&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 3"/>
+  </a>
+  <a href="https://github.com/SUSH9391">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSH9391&repo=YOUR_PROJECT_4&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=9CA3AF" alt="Featured Project 4"/>
+  </a>
+</p>
 
-<div align="left">
-</div>
+<br>
 
-###
+<!-- ═══════════════════════════════════════════════════════
+     CONNECT
+════════════════════════════════════════════════════════ -->
+<h2 align="center">💌 Let's Connect</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/YOUR_X_USERNAME">
+    <img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=161616" alt="X"/>
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sush31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sush31" /></a></p><br><br>
+<p align="center">
+  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://youtube.com/@YOUR_YOUTUBE_USERNAME">
+    <img src="https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=161616" alt="YouTube"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════
+     GITHUB PROFILE CTA
+════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://github.com/SUSH9391?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Building. Learning. Breaking things. Fixing them. Repeating. ✨</i>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=130&section=footer&text=Thanks%20for%20visiting%20%F0%9F%8C%B8&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"
+    width="100%"
+    alt="Footer"
+  />
+</p>
+
+<p align="center">
+  <sub>Made with 💗, curiosity & lots of ☕</sub>
+</p>
