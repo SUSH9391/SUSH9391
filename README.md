@@ -24,6 +24,21 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════
+     CONTRIBUTION SNAKE
+════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://github.com/SUSH9391/SUSH9391/blob/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════
      CONNECT
 ════════════════════════════════════════════════════════ -->
 <h2 align="center">💌 Let's Connect</h2>
